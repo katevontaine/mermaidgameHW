@@ -320,3 +320,10 @@ else if (randomInt >=51 || randomInt > 75) {
 // });
 
 ////////////////////////////////////////////////
+// source for background-color
+//http://codepen.io/REast/details/gqmuE/
+
+//cloud//http://codepen.io/seyedi/pen/nCvKA
+
+//sunset
+//http://codepen.io/peterbrinck/pen/emwXBP
